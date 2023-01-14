@@ -1,0 +1,34 @@
+img {
+    width: 400px; 
+    height: 350px; 
+    object-fit: contain;
+  }
+  
+  body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #3b405f;
+    text-align: center;
+    vertical-align: middle;
+  }
+  .container {
+    width: 500px;
+    
+    border-bottom: 8px;
+    margin: 60px auto;
+    padding: 20px;
+    padding-top: 10px;
+    border-radius: 8px;
+  }
+ 
+  .heading{
+    margin-top: 10px;
+    color:#22cae7d2;
+  }
+  button {
+    background-color: rgb(16, 160, 102);
+  }
+  
+  button:hover {
+    background-color: red;
+  }
+  
